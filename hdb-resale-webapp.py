@@ -2,6 +2,7 @@ import streamlit as st
 from datetime import date
 import joblib
 import pandas as pd
+import sklearn
 
 # import models
 
